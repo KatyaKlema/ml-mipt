@@ -1,2 +1,2 @@
 # ml-mipt
-MIPT machine learning course
+MIPT base machine learning course
